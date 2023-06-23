@@ -12,7 +12,6 @@ html {
 /*CABECERA*/
 .escucha {
   margin-top:0px;
-
   display: block;
   padding-left: 1150px;
   font-weight: bold;
@@ -61,18 +60,8 @@ h2,
 
 
 
-
-/* seccion ULTIMA CANCIÓN */
-/* *********************/
-
-
-
-
-
-
 /* seccion CANCIONES */
 /* *********************/
-
 .carousel-fade {
   .carousel-item {
     opacity: 0;
@@ -139,7 +128,6 @@ margin-right:-600px;
 
 
 }
-
 
 #musica{
   width:100%;
@@ -218,20 +206,6 @@ color:#fd46a5;
 
 
 @media screen and (max-width: 800px){
-    
-
-  
-
-  
-}
-
-
-
-
-@media screen and (max-width: 800px){
-    
-
-  
   .colum1{
       max-width: 100%;
       margin-right:60px;
@@ -243,14 +217,7 @@ color:#fd46a5;
     max-width: 100%;
   }
 
-
-
-
-
-
 }
-
-
 
 
 @media screen and (max-width: 2000px){
