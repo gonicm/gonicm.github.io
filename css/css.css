@@ -203,8 +203,6 @@ color:#fd46a5;
   
 /* TAMAÑOS BOOSTRAP */
 /* *********************/
-
-
 @media screen and (max-width: 800px){
   .colum1{
       max-width: 100%;
